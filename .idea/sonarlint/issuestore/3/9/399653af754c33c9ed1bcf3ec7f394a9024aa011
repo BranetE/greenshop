@@ -1,0 +1,21 @@
+
+†	java:S112j"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$2599a067-4dfb-4687-88e8-f64bae9d2dfc
+‘
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ïô†úÿÿÿÿJ$978a6bfe-e2ac-4180-8187-b04879491db9
+w	java:S1255"<This block of commented-out lines of code should be removed.(‘Õ”¯J$fe3aac15-48f7-4f21-b130-8225f96d72c5
+{
+java:S1854<"?Remove this useless assignment to local variable "contextPath".(Ï¼İÄJ$469747a4-5a05-447c-81cb-1a9f5baf8fd3
+|
+java:S1854R";Remove this useless assignment to local variable "userMsg".(Õâ‘‹øÿÿÿÿJ$2df70709-73dc-4239-9fb6-51fb3e0906f3
+l
+java:S1481<"0Remove this unused "contextPath" local variable.(Ï¼İÄJ$b9282ff3-0b9b-45f1-a8dd-26fa39093a59
+f	java:S106I"+Replace this use of System.out by a logger.(Ûˆ¦J$beb0e915-c598-430d-b879-ddda34791ac3
+u
+java:S2441L":Make "User" serializable or don't store it in the session.(ßàÓ@J$a6a224d0-1fcd-4942-a4ff-ff6fe066f69d
+k	java:S106N"+Replace this use of System.out by a logger.(ÁÇÈ´úÿÿÿÿJ$2546adb4-7342-4565-8548-bd47133e313c
+k	java:S106Q"+Replace this use of System.out by a logger.(ú“‘’ùÿÿÿÿJ$b43fb523-d306-4105-93f1-f1e429a50bed
+m
+java:S1481R",Remove this unused "userMsg" local variable.(Õâ‘‹øÿÿÿÿJ$cf77c18e-03c5-4bc7-9ae3-f3b3c8f49aed
+f	java:S106U"+Replace this use of System.out by a logger.(Ø¼¢ƒJ$0cc28e7b-ed20-4e7a-8399-f464c6fef83e
+
+java:S1989W"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ş‰öƒJ$7d525832-affa-42e2-ab0e-58e314b71b95

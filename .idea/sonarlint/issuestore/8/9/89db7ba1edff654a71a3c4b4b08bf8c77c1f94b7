@@ -1,0 +1,11 @@
+
+†	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒιόÿÿÿÿJ$1d5e65c8-72da-4b29-9a6f-6047688be955
+Ϊ
+java:S6548
+"A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(π©πώÿÿÿÿJ$9a038731-0556-4def-91c8-3fd5f1269698
+X
+java:S1116$"Remove this empty statement.(Ύ­†J$75dcf116-3d09-49a3-ba73-a3485977f92a
+n
+java:S1172+"-Remove this unused method parameter "footer".(θƒ¥ΩϊÿÿÿÿJ$848ac6a3-c70e-4a7d-b536-015c3e12a604
+{
+java:S4719:":Replace Charset.forName() call with StandardCharsets.UTF_8(§ε“ψÿÿÿÿJ$c6d7c08d-eff8-471d-a2df-ae9ecb23be2e
